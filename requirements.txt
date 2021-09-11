@@ -1,1 +1,12 @@
-numpy==1.14.5
+numpy
+pandas
+matplotlib
+sklearn
+xlrd
+scipy
+seaborn
+requests
+plotly
+flask
+django
+waitress
