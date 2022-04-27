@@ -8,12 +8,11 @@ READMEs contain full project description<br>
 On this website you can pit two of your favourite teams against each other on a selected stadium and recieve the results.
 ![image](https://user-images.githubusercontent.com/60135263/165535692-2b3952d7-f122-4a62-a99a-bece1ddbe474.png)
 To run the website, run
-`python3 app.py` or `python app.py`
+`python3 app.py` or `python app.py`<br>
 Then click the localhost link in the terminal to open the website
 
-
 ### The Results
-The process from start to finish is recorded in model.html
+The process from start to finish is recorded in model.html<br>
 To open a .ipynb notebook in the browser, run 
 `jupyter notebook`
 
