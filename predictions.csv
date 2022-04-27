@@ -1,0 +1,185 @@
+Team,Opponent,Score
+Trondheims-Ørn,LSK Kvinner,1
+LSK Kvinner,Trondheims-Ørn,2
+Røa,Arna-Bjørnar,2
+Arna-Bjørnar,Røa,2
+Avaldsnes,Lyn,2
+Lyn,Avaldsnes,1
+Sandviken,Vålerenga,2
+Vålerenga,Sandviken,2
+Klepp,Kolbotn,2
+Kolbotn,Klepp,1
+Kolbotn,Avaldsnes,1
+Avaldsnes,Kolbotn,2
+Vålerenga,Røa,2
+Røa,Vålerenga,1
+Lyn,Trondheims-Ørn,1
+Trondheims-Ørn,Lyn,2
+Arna-Bjørnar,Klepp,1
+Klepp,Arna-Bjørnar,1
+LSK Kvinner,Sandviken,3
+Sandviken,LSK Kvinner,1
+Røa,LSK Kvinner,2
+LSK Kvinner,Røa,3
+Klepp,Vålerenga,2
+Vålerenga,Klepp,1
+Sandviken,Lyn,2
+Lyn,Sandviken,1
+Avaldsnes,Arna-Bjørnar,2
+Arna-Bjørnar,Avaldsnes,1
+Trondheims-Ørn,Kolbotn,1
+Kolbotn,Trondheims-Ørn,1
+Vålerenga,Avaldsnes,1
+Avaldsnes,Vålerenga,1
+Røa,Sandviken,2
+Sandviken,Røa,2
+Lyn,Kolbotn,2
+Kolbotn,Lyn,2
+Arna-Bjørnar,Trondheims-Ørn,2
+Trondheims-Ørn,Arna-Bjørnar,1
+LSK Kvinner,Klepp,2
+Klepp,LSK Kvinner,1
+Arna-Bjørnar,Vålerenga,2
+Vålerenga,Arna-Bjørnar,2
+Lyn,LSK Kvinner,1
+LSK Kvinner,Lyn,3
+Kolbotn,Røa,1
+Røa,Kolbotn,2
+Trondheims-Ørn,Klepp,1
+Klepp,Trondheims-Ørn,1
+Avaldsnes,Sandviken,2
+Sandviken,Avaldsnes,1
+Vålerenga,Kolbotn,2
+Kolbotn,Vålerenga,1
+Røa,Avaldsnes,2
+Avaldsnes,Røa,2
+Klepp,Lyn,2
+Lyn,Klepp,0
+Sandviken,Trondheims-Ørn,2
+Trondheims-Ørn,Sandviken,1
+LSK Kvinner,Arna-Bjørnar,3
+Arna-Bjørnar,LSK Kvinner,1
+Røa,Vålerenga,2
+Vålerenga,Røa,2
+Arna-Bjørnar,Lyn,2
+Lyn,Arna-Bjørnar,1
+Klepp,Røa,2
+Røa,Klepp,1
+Avaldsnes,LSK Kvinner,1
+LSK Kvinner,Avaldsnes,2
+Kolbotn,Sandviken,1
+Sandviken,Kolbotn,1
+Trondheims-Ørn,Vålerenga,1
+Vålerenga,Trondheims-Ørn,2
+Kolbotn,Arna-Bjørnar,1
+Arna-Bjørnar,Kolbotn,2
+Lyn,Røa,1
+Røa,Lyn,2
+Sandviken,Klepp,1
+Klepp,Sandviken,2
+LSK Kvinner,Vålerenga,3
+Vålerenga,LSK Kvinner,1
+Avaldsnes,Trondheims-Ørn,2
+Trondheims-Ørn,Avaldsnes,1
+Røa,Trondheims-Ørn,2
+Trondheims-Ørn,Røa,1
+LSK Kvinner,Kolbotn,3
+Kolbotn,LSK Kvinner,1
+Arna-Bjørnar,Sandviken,2
+Sandviken,Arna-Bjørnar,1
+Vålerenga,Lyn,2
+Lyn,Vålerenga,1
+Klepp,Avaldsnes,2
+Avaldsnes,Klepp,1
+Avaldsnes,Røa,2
+Røa,Avaldsnes,1
+Trondheims-Ørn,Arna-Bjørnar,1
+Arna-Bjørnar,Trondheims-Ørn,1
+Kolbotn,Vålerenga,1
+Vålerenga,Kolbotn,2
+Lyn,Klepp,1
+Klepp,Lyn,2
+Sandviken,LSK Kvinner,1
+LSK Kvinner,Sandviken,2
+Arna-Bjørnar,Avaldsnes,2
+Avaldsnes,Arna-Bjørnar,1
+LSK Kvinner,Trondheims-Ørn,3
+Trondheims-Ørn,LSK Kvinner,1
+Røa,Klepp,2
+Klepp,Røa,2
+Vålerenga,Sandviken,2
+Sandviken,Vålerenga,1
+Kolbotn,Lyn,2
+Lyn,Kolbotn,1
+Arna-Bjørnar,Kolbotn,2
+Kolbotn,Arna-Bjørnar,1
+Avaldsnes,Vålerenga,2
+Vålerenga,Avaldsnes,1
+Trondheims-Ørn,Røa,1
+Røa,Trondheims-Ørn,1
+Lyn,Sandviken,1
+Sandviken,Lyn,2
+Klepp,LSK Kvinner,1
+LSK Kvinner,Klepp,2
+Kolbotn,Trondheims-Ørn,1
+Trondheims-Ørn,Kolbotn,1
+LSK Kvinner,Røa,3
+Røa,LSK Kvinner,1
+Lyn,Avaldsnes,1
+Avaldsnes,Lyn,2
+Vålerenga,Klepp,1
+Klepp,Vålerenga,1
+Sandviken,Arna-Bjørnar,2
+Arna-Bjørnar,Sandviken,1
+Arna-Bjørnar,LSK Kvinner,1
+LSK Kvinner,Arna-Bjørnar,2
+Avaldsnes,Kolbotn,2
+Kolbotn,Avaldsnes,1
+Klepp,Sandviken,2
+Sandviken,Klepp,1
+Trondheims-Ørn,Lyn,2
+Lyn,Trondheims-Ørn,1
+LSK Kvinner,Avaldsnes,3
+Avaldsnes,LSK Kvinner,1
+Sandviken,Røa,2
+Røa,Sandviken,1
+Kolbotn,Klepp,1
+Klepp,Kolbotn,2
+Lyn,Arna-Bjørnar,1
+Arna-Bjørnar,Lyn,2
+Vålerenga,Trondheims-Ørn,2
+Trondheims-Ørn,Vålerenga,1
+Klepp,Arna-Bjørnar,2
+Arna-Bjørnar,Klepp,1
+Røa,Lyn,3
+Lyn,Røa,1
+Sandviken,Kolbotn,2
+Kolbotn,Sandviken,1
+Trondheims-Ørn,Avaldsnes,1
+Avaldsnes,Trondheims-Ørn,1
+Vålerenga,LSK Kvinner,1
+LSK Kvinner,Vålerenga,2
+Kolbotn,LSK Kvinner,1
+LSK Kvinner,Kolbotn,3
+Arna-Bjørnar,Røa,2
+Røa,Arna-Bjørnar,1
+Avaldsnes,Klepp,1
+Klepp,Avaldsnes,1
+Trondheims-Ørn,Sandviken,1
+Sandviken,Trondheims-Ørn,1
+Lyn,Vålerenga,1
+Vålerenga,Lyn,2
+Røa,Kolbotn,3
+Kolbotn,Røa,1
+Kolbotn,Medkila,2
+Medkila,Kolbotn,0
+Medkila,Kolbotn,1
+Kolbotn,Medkila,3
+Klepp,Trondheims-Ørn,2
+Trondheims-Ørn,Klepp,1
+Sandviken,Avaldsnes,2
+Avaldsnes,Sandviken,1
+LSK Kvinner,Lyn,4
+Lyn,LSK Kvinner,0
+Vålerenga,Arna-Bjørnar,2
+Arna-Bjørnar,Vålerenga,1

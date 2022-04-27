@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/style.css') }}">
+    <title>Females Football Predictions</title>
+</head>
+<body>
+    <h2 class="coolTitle">Predict the scores of your favourite females football team</h2>
+    <div class="coolDiv">
+        <form action="/" method="POST">
+            <select name="team" id="team" required>
+                <option>Arna-Bjørnar</option>
+                <option>Avaldsnes</option>
+                <option>Grand Bodø</option>
+                <option>Klepp</option>
+                <option>Kolbotn</option>
+                <option>LSK Kvinner</option>
+                <option>Medkila</option>
+                <option>Røa</option>
+                <option>Sandviken</option>
+                <option>Stabæk</option>
+                <option>Trondheims-Ørn</option>
+                <option>Vålerenga</option>
+                <option>Lyn</option>
+                <option>Fart</option>
+            </select>
+            <select name="opponent" id="opponent" required>
+                <option>Arna-Bjørnar</option>
+                <option>Avaldsnes</option>
+                <option>Grand Bodø</option>
+                <option>Klepp</option>
+                <option>Kolbotn</option>
+                <option>LSK Kvinner</option>
+                <option>Medkila</option>
+                <option>Røa</option>
+                <option>Sandviken</option>
+                <option>Stabæk</option>
+                <option>Trondheims-Ørn</option>
+                <option>Vålerenga</option>
+                <option>Lyn</option>
+                <option>Fart</option>
+            </select>
+            <select name="venue" id="venue" required>
+                <option>Harstad Stadion</option>
+                <option>Avaldsnes Idrettssenter</option>
+                <option>Nordlandshallen</option>
+                <option>Røabanen</option>
+                <option>LSK-hallen</option>
+                <option>Ørn Arena</option>
+                <option>Arna Idrettspark</option>
+                <option>Vallhall Arena</option>
+                <option>Sofiemyr stadion</option>
+                <option>Nadderud Stadion</option>
+                <option>Varden Amfi</option>
+                <option>Klepp Stadion</option>
+                <option>Stemmemyren kunstgressbane</option>
+                <option>Vålerenga kultur- og idrettspark kunstgressbane</option>
+                <option>Vestlandshallen</option>
+                <option>Utleira Kunstgress</option>
+                <option>Kringsjå Kunstgress</option>
+                <option>KFUM Arena</option>
+                <option>Intility Arena</option>
+                <option>Telenor Arena</option>
+                <option>Fart Kunstgress</option>
+                <option>Myrdal Gress</option>
+                <option>Grefsen Stadion</option>
+                <option>Jessheim Stadion</option>
+                <option>Djervbanen</option>
+                <option>Strømmen Stadion</option>
+            </select>
+            <input class="coolButton" type="submit" value="Predict">
+        </form>
+        <hr>
+        {% if data %}
+        <div class="score">
+            <p class="coolText">{{ data[0][0] }} {{ data[1] }} - {{ data[2] }} {{ data[0][1] }} on venue: {{ data[0][2] }}</p>
+        </div>
+        {% endif %}
+    </div>
+    </body>
+</html>

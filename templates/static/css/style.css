@@ -1,0 +1,33 @@
+body {
+  background-color: whitesmoke;
+}
+
+.coolTitle {
+  text-align: center;
+  font-family: 'Oswald', Helvetica, sans-serif;
+  font-size: 30px;
+  letter-spacing: 1px;
+  color: tomato;
+  text-shadow:
+    -2px -2px 0 firebrick,
+    0px 0px 40px dimgrey;
+}
+
+.coolText {
+  font-size: 20px;
+}
+
+.coolButton {
+    background: tomato;
+}
+
+.coolDiv {
+  background-color: white;
+  layout: center;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 15px;
+  border: 2px solid tomato;
+  border-radius: 5px;
+}
